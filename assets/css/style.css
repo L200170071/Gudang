@@ -1,0 +1,38 @@
+html{
+	position: relative;
+}
+
+body{
+	margin-bottom: 100px;
+}
+
+.carousel{
+	margin-top: auto;
+	background-attachment: fixed;
+	background-size: cover;
+	color: black;
+	overflow: hidden;
+}
+
+.foto1 .card{
+	padding-top: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 10px;
+	width: 80%;
+	height: auto;
+	position: relative;
+	margin-left: auto;
+	background-color: white;
+	margin-right: auto;
+	margin-top: -100px;
+	z-index: 5;
+	box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+
+footer{
+	position: absolute;
+	width: 100%;
+	background-color: #262626;
+	padding-bottom: 5%;
+}
